@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Location Pin -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24c-11,0 -20,9 -20,20c0,15 20,38 20,38s20,-23 20,-38c0,-11 -9,-20 -20,-20z" />
+
+    <!-- Video Camera Icon (Cutout) -->
+    <path
+        android:fillColor="#1A73E8"
+        android:pathData="M44,40h16c1.1,0 2,0.9 2,2v8c0,1.1 -0.9,2 -2,2h-16c-1.1,0 -2,-0.9 -2,-2v-8c0,-1.1 0.9,-2 2,-2zM62,43l6,-3v12l-6,-3z" />
+</vector>
